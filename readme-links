@@ -1,0 +1,20 @@
+
+http://www.nongnu.org/quagga/docs.html
+
+
+gitweb: 
+http://git.savannah.gnu.org/cgit/quagga.git
+
+
+Clone
+git://git.savannah.gnu.org/quagga.git
+https://git.savannah.gnu.org/git/quagga.git
+ssh://git.savannah.gnu.org/srv/git/quagga.git
+
+
+cloned:
+$ git remote -v
+origin  https://git.savannah.gnu.org/git/quagga.git (fetch)
+origin  https://git.savannah.gnu.org/git/quagga.git (push)
+
+
