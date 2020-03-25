@@ -18,3 +18,41 @@ origin  https://git.savannah.gnu.org/git/quagga.git (fetch)
 origin  https://git.savannah.gnu.org/git/quagga.git (push)
 
 
+cannot push to github for the tags due to an error.
+
+https://stackoverflow.com/questions/41951493/git-repository-invalid-author-committer-line-missing-space-before-date
+
+git filter-branch --env-filter \
+'if [ $GIT_COMMIT = d8b1774aa7bd98c6494a1e31acef943d0e0cbf03 ]
+ then
+     export GIT_AUTHOR_NAME="John"
+     export GIT_AUTHOR_DATE="Fri, 11 Apr 2014 07:30:39 +0000"
+     export GIT_COMMITTER_DATE="Fri, 11 Apr 2014 07:30:39 +0000"
+     export GIT_AUTHOR_EMAIL="john.doe@blah.com"
+ fi' --tag-name-filter cat -- --branches --tags
+
+
+$ git log -1 8abb8baf1e8cb969223a2200f8a7fa5c8431c1a1 | head
+commit fee0f4c629412f422fc9a857e097ef335c2c576c
+Author: paul <paul>
+Date:   Mon Sep 13 05:12:46 2004 +0000
+
+    2004-09-13 Jose Luis Rubio <jrubio@dit.upm.es>
+               (at Technical University of Madrid as part of Euro6ix Project)
+
+            Enhanced Route Server functionality and Route-Maps:
+
+            * bgpd/bgpd.h: Modified 'struct peer' and 'struct bgp_filter' to
+
+
+git filter-branch --env-filter \
+'if [ $GIT_COMMIT = "8abb8baf1e8cb969223a2200f8a7fa5c8431c1a1" ]
+ then
+     export GIT_AUTHOR_NAME="paul"
+     export GIT_AUTHOR_EMAIL="john.doe@blah.com"
+ fi' --tag-name-filter cat -- --branches --tags
+
+see readme-rewrite for what is changed. still have the same error. 
+see readme-refs for the hashes and tags logged. 
+
+

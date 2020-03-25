@@ -1,0 +1,326 @@
+
+
+$ git show-ref --tags
+878715cc78de825894d83458b7c8bd68e3f347cc refs/tags/RE-0.99.17.1
+c66caa83f96cd11c95c05b40da9ed8064e236005 refs/tags/RE-0.99.17.2
+2f7d5fb38a284a00f990f943fbd3fbd8961ef52e refs/tags/RE-0.99.17.3
+2bb2664e2957c587d8ad2d3d1d26de981983406e refs/tags/RE-0.99.17.4
+fe97dd4d42921ffc63e5b540543b00a9c9b48ad1 refs/tags/RE-0.99.17.5
+036bbff9d88feef471b30e19586a810634fe9e99 refs/tags/RE-0.99.17.6
+8abb8baf1e8cb969223a2200f8a7fa5c8431c1a1 refs/tags/bgp_rserver_after
+4bee3673110487aca7bd008709a30288de627d3e refs/tags/bgp_rserver_before
+516ac72a5400372ad2e2224f48e178ffcae68493 refs/tags/ex07
+80f09eb4ea82b7b5bd9d65a87211fcb4ce17f38d refs/tags/ex08
+2cb7104caaf397a1db38ecb8c20c2cf688560c4d refs/tags/ex09
+cc049c24048a289bec9f5b55dc5aab14b0b2c66a refs/tags/ex10p
+6330e333c40614a3193058a9fa95ff1098c4af4c refs/tags/ex11p
+5bdafdbfca79c68da7cbfc5549ee8b9ae0fb5b42 refs/tags/ex12
+61d42fb2affae405b2aff501681c384597e92179 refs/tags/ex14
+8010e1a05657ee26b9b29af5b7b7981effa128f1 refs/tags/ex15p
+6a082e66ab476c369982133952946d952b081ea8 refs/tags/ex16p
+7bd8653ef788a6395b07583d6766be8950598342 refs/tags/ex17
+cec1fae79110dffa900c0c5f38c3d3b48f5b0db6 refs/tags/ex18p
+3b39b0d7c3b34cc489ea5ccb4ceeada79c0878b7 refs/tags/ex19b
+23b39bcd14ee07da9b9fa20fb55381f3ac342497 refs/tags/ex19p
+6bd3ef2441f6b45d96c69ee8183d2bec8173ddb5 refs/tags/ex20b
+00290b852d5507b0c04f723f5e812fd444c7d627 refs/tags/ex21b
+0e8b4278c350ce743bddc366078dfa2549e2481a refs/tags/ex22b
+0d36aa5f0772cb47fe18c15e6e2b29a518e8b753 refs/tags/ex23b
+8efd65adb7846f8e400370148c99d5b8b8e468ea refs/tags/ex24b
+4b9756fee1dbaaabdbc5f1a90a1f3980f5e38cc0 refs/tags/ex25b
+453f7b3363bede831e7aaf906529b2153dbc0520 refs/tags/gpg-tag-20051106
+96da452f150e8a83cf7958ebab18335fb46a6a80 refs/tags/gpg-tag-20060330
+b3fd002be8d6b3987454fe9fbbb0684d4dc240e5 refs/tags/gpg-tag-20060331
+3643c60203db4ed984fb24e155c41b2189d3ba86 refs/tags/gpg-tag-20060331-quagga_0_98_stable
+9c664527c4e890707bba2a305f5829c1bed9deb8 refs/tags/gpg-tag-quagga_0_98_6_release
+756acc39251cc40a364614445ae139acf3a6193c refs/tags/import_isisd_sf_20031223
+2acd9a5e5161c112387f0120fb8b62810250cfa3 refs/tags/isisd_sf_20031223
+6ae08c1cd10f3665da8fcfd52357dc5bd01ba67c refs/tags/libtool-after
+fdf9f23bacca122528a0e1cc47b51a95b4bc9f61 refs/tags/libtool-before
+4749358200e53b0d11bca9423f54e382604654c5 refs/tags/merge_zprivs_head_1
+a07de9d5b3610a4f5592fa4e2c1993506c830ae7 refs/tags/merge_zprivs_head_2
+91a8d80fade03ff8088ef2afcb04d3a0ff2f75c7 refs/tags/merge_zprivs_head_3
+baca4c65c40a87d7f9ca622c45b5448e8128bd31 refs/tags/merge_zprivs_head_4
+b603ce74bfa92227a7814e8874deaf2e771fdb7a refs/tags/nonblocking_zclient_after
+fb649994ca576848d3d60b0a125de347e265c09d refs/tags/nonblocking_zclient_before
+aa1c73a960a370b95768b6d0070c57416a692c1c refs/tags/nonblocking_zserv_after
+0e073a73e8b19e9db72c5ae90aba8fd2a70501b2 refs/tags/nonblocking_zserv_before
+f39e98b73bf913a7958bd300eab5daaf3adec845 refs/tags/ospf_api
+dd5bb38c2d1413a81994c303bc877ae7603de31c refs/tags/patch_revert_debug_nssa_patch
+47121ed0cd777c366084fe491267ac144e6e9ac0 refs/tags/patch_vtysh_add_ssh_fix
+ab42d007f4afaa37d181f1e853b6b22c27e6f7d5 refs/tags/patch_vtysh_pagesize
+ccabe2277d779917ea08dba99e83fb321f56cb5e refs/tags/patch_z12269_linkstate
+fac7f589ee3c9f760b96db306d0152ae68abb1e7 refs/tags/patch_z14599_multicast_inactive_if
+ffbcb78b7ba197d44466618fc05ad53c456e00c2 refs/tags/patch_z14631_ptp_rfc3021
+125781092f35df82615965acba8343fc1da06870 refs/tags/patch_z14800_ospfd_ptmp
+b277f0b046aba43029cd1cc5dbc279ce18164e71 refs/tags/patch_z15554_vtysh_writeconf
+de10501fe57e6f8972ccd96afb2d32048fc74c14 refs/tags/patch_z15646_ospfd_seqnum_time
+7f9a31b81d80723510c30b5e4373e8ef204dc88d refs/tags/patch_z15715_ospf_md5
+86910d1d919674be7be3b0167eb68c24fb19aec2 refs/tags/patch_z15769_ripv1
+2bbcf015b06a4ff1d1afd004036d1d518ff04f04 refs/tags/patch_z16525_kame
+ea828e20a85ec3f8f2c05be1d5b03f75c9c34d18 refs/tags/patch_z16681_ospfd_nssa
+579eef4826613569edd0e70086f17ee46a1879ad refs/tags/patch_z16823
+659cba5e23b49a4ebb541c4fe5299db4ae4208a9 refs/tags/patch_z16824_nsm_kill_neighbour
+d8920af0f1a3d033ee1af4351f2ec10b79a70769 refs/tags/patch_z17217_show_thread_cpu
+9aec20cf2da3e482facfb8b5e83d74935500a0fb refs/tags/patch_z17218_cli_walk_up
+d8d7851a8dfb20ce7dbfa8f91fc82aafaa9e5127 refs/tags/patch_z17290_ifupstaticfix
+f0c0b5d0c1db9e6fc88f2202de1076e43771fda4 refs/tags/patch_z17290_portfix
+877009b9e96ee5f95df8ae8b7d040d32ba221f9f refs/tags/patch_z17335_ospfd_doc
+f76172edb5e0b9bb78e14da26353ebb1929e34e1 refs/tags/patch_z17352_ptp_network_match
+a27d07a3d4b605cb814500493ea4ae1c439d7aab refs/tags/pim0.157
+0722bb0da1e8abc3cccb76491348c15bbe730c6f refs/tags/pim0.158
+ce8e7ce454bb64aebb335300c45389f59db2ed07 refs/tags/pim0.162
+91bebe335a34c051ed54dd49afbe6489c3563e0e refs/tags/post_bgp_workqueus
+78983f489267e1b11b08f39bbc5f2990c43c02d9 refs/tags/pre-rfc2301
+b813e384fd95c7051dd29e85fce9c19bd13989d5 refs/tags/pre_bgp_workqueus
+cf86aee8e6e3b2360bc10d66a90491f0982b77a1 refs/tags/quagga-0.99.22
+611eb2a75a0e65ab8f2d27cb8b970343350911e0 refs/tags/quagga-0.99.22-rc1
+817f8b6bb9c7ec5593b47862960f03004e5c30a6 refs/tags/quagga-0.99.22.1
+a3f4eb441257315da719b7bb15505f8a9e0a9674 refs/tags/quagga-0.99.22.3
+348cfa0f79048f75395e02300132c0759b3ca6a1 refs/tags/quagga-0.99.22.4
+9ccd0426a232d90be5fef72c7e1e0891c3dcc533 refs/tags/quagga-0.99.23
+b6542a7a2c997a84f174784fea80b9edcd585d9f refs/tags/quagga-0.99.23-rc1
+1c35c334ed9cd12e0a8cc1e23939b4c374543cf2 refs/tags/quagga-0.99.23.1
+04eb0c9ce90f75a9fe54eab4814ac93b03c41f24 refs/tags/quagga-0.99.24
+baf8cf55b300f2984333472abc38cf8b644b015f refs/tags/quagga-0.99.24-rc1
+14b4934915384b68f9bb9cd2d5d6c47c94e1d1ab refs/tags/quagga-0.99.24.1
+8d3e3ccfd0d0cb82b253f937339d1c6189a2bf54 refs/tags/quagga-0.99.5-realms.diff
+37e11172f8ed157340783b73d56595bb02d0a2d2 refs/tags/quagga-0.99.6-realms.patch
+848bfe5af5b333d531abb9a43aa15e08a91edac0 refs/tags/quagga-1.0.20160309
+37aaf7c92b520dd6ec7d16a212599031e26ee454 refs/tags/quagga-1.0.20160315
+aa95773d3ddf96203d40127bc4e84420f9bd0154 refs/tags/quagga-1.0.20161017
+464e326c03fc3e6c3df6b3ead25308f8b1ce3ba2 refs/tags/quagga-1.1.0
+4ff4e8c33db01b8353536a969852f1ed350fe8f3 refs/tags/quagga-1.1.1
+58b1475305041ee3f468eb7c5ff5714a3c635256 refs/tags/quagga-1.2.0
+3ae7eb44144ea9e14ffc933da6c5f18947966463 refs/tags/quagga-1.2.1
+109f0f50574356aa60fcdb93f75e1e21b5fb59bf refs/tags/quagga-1.2.2
+24a1db7349f0ef791d864b39841eeafba53dd9bb refs/tags/quagga-1.2.3
+3eeafc081b78b8c01e2c1fa094fe32f62d2dacca refs/tags/quagga-1.2.4
+071e1c9b194138e404942d62dce53780b69d5e4a refs/tags/quagga-as4-statsbugfix.patch
+e6f21cea152869a7cda19e5a698d45d680005003 refs/tags/quagga-cvs20061024-to-asn32-v01.patch
+a81e04966f5a7ecfb546b084daf3c50353d9d71b refs/tags/quagga-cvs20061201-asn32-v01.patch
+570b38f6fe8a47742efb054e5611809be88b10b3 refs/tags/quagga-cvs20061208-asn32-v01.patch
+64199a31bd521be0781f115621d8ade82c5a844e refs/tags/quagga-cvs20070110-as4-v04.patch
+c571a7ef7c72a6fce1a980bb40046bf97ac590c0 refs/tags/quagga-cvs20070110-asn32-v02.patch
+73bb5bcbf2485fd0e688b08caabaf3689c9e7a7c refs/tags/quagga-cvs20070110-asn32-v03.patch
+fc4dc72017e8208111866382782640117d03fb5f refs/tags/quagga-cvs20070307-as4-v05.patch
+cf0c6b8432028ba815902e1198998376b5288c86 refs/tags/quagga_0_96_1_release
+6f1f20dfee8d2289cb4764a8986d3f1c98bee3ad refs/tags/quagga_0_96_2_release
+d16c6a7eda7a1b4faee78c9ed1d79bbbab374809 refs/tags/quagga_0_96_3_release
+61bb5a76ec3d6ae0da73fe0993bedb606b300982 refs/tags/quagga_0_96_4_release
+696173dcf6b241f4167ff24bc0cdb70e5d557ad6 refs/tags/quagga_0_96_5_release
+8588598d657961ebc51afa915ac31d56e8a13ed2 refs/tags/quagga_0_96_release
+a9ca0e401b908ce24155f4317cda99a74bddb700 refs/tags/quagga_0_97_0_release
+67ec768cfdb0d61e9196cb1d7eb76a63c0b34618 refs/tags/quagga_0_97_1_release
+5de9501d6fab93eea3fc9756bddd5c4d63628ae6 refs/tags/quagga_0_97_2_release
+c41a4c7ffd3e0d6173efe3198d0321143f134f7d refs/tags/quagga_0_97_3_release
+cbf2987416b128719cc6ad46f6a9e826d5450160 refs/tags/quagga_0_97_4_release
+270923dc7db9595f339509a6a737aaf42a36d20b refs/tags/quagga_0_97_5_release
+54847f19fd2cbd15ab60805ed6195497e40264d0 refs/tags/quagga_0_98_0_release
+f7f80f1f3174c57d3a4ad18636567abdd2b444ac refs/tags/quagga_0_98_1_release
+1e5bf3016ed3dfbd04c094344fbf004a32cf5681 refs/tags/quagga_0_98_2_release
+e0190811f562cfe03735e1a03db27632c4e21dd4 refs/tags/quagga_0_98_3_release
+451d89993bd7f7e557bd1805c6b1b6b7d4f9d27b refs/tags/quagga_0_98_4_release
+a91b5d3a75f969c9c79bad79a1f5ccf505f894b9 refs/tags/quagga_0_98_5_release
+81d505e3dcd8e55ad819d65645f8f4432196da96 refs/tags/quagga_0_98_6_release
+e1f3d39898833874e93af0dd1f40a029abd0be62 refs/tags/quagga_0_99_10_release
+5635b778afcb3b6b3560871a292dc789f8dca5e9 refs/tags/quagga_0_99_11_release
+936e986aea99f97ef8c8143ba8ff201fcc9c0b34 refs/tags/quagga_0_99_11_release.cp1
+5012bc3d217f4fff5759745ee689869fb5224b41 refs/tags/quagga_0_99_12_release
+5bc52c76c2816a3be9a033c3e5bf4fea1908e3cd refs/tags/quagga_0_99_13_release
+998274cd7c559bd04d7b7f6e615ad120af915d86 refs/tags/quagga_0_99_14_release
+3849ce4e25281d11537ebd0db5e2fa2a7c356b33 refs/tags/quagga_0_99_15_release
+438589e31fe38943247f3011388b819346e473fe refs/tags/quagga_0_99_16_release
+a6be12128c29b0dc5b8a6d6923510fc7f677b775 refs/tags/quagga_0_99_17_release
+d8509631b47aba867c59eb463bb346d7ae5b91c7 refs/tags/quagga_0_99_18_release
+014a44a484f91710fc2e96b1459c6a46dd6adf4e refs/tags/quagga_0_99_19_release
+d952217eb427685d127f02eef4da51f0a2549e19 refs/tags/quagga_0_99_1_release
+29ff5aa64cd9137cf612b246afa4e134c27a5acb refs/tags/quagga_0_99_20_1_release
+cae3a238dcc76c2a0a9e04f6dac00fa7cb016558 refs/tags/quagga_0_99_20_release
+e538ee6a7b4249a8b9717c2a28e160ff989de224 refs/tags/quagga_0_99_21_release
+aebe4417b0f09ee5b98d08329d061f1d7c4e846e refs/tags/quagga_0_99_2_release
+63187f7b64afcae17f411b08567633cae2d83369 refs/tags/quagga_0_99_3_release
+0c5596d8ef9fb8bbf25a09a42a8f52f66b204bf3 refs/tags/quagga_0_99_4_release
+b6ac5c204e394e47cc2c7031035e6fbd3aae5825 refs/tags/quagga_0_99_5_release
+be73fc41a66b7ad9512356261e5c24a2888ff184 refs/tags/quagga_0_99_6_release
+ff4af63722afe735caf53fd4ec2b102519e88918 refs/tags/quagga_0_99_7_release
+0cce11fd313aba66f1bb94207139da67d2228390 refs/tags/quagga_0_99_8_release
+b85e0f9da390e5981ac9d6d5e0d784bd155885b6 refs/tags/quagga_0_99_9_release
+23e73a3dce050573d11c9e7aadf3533a433aa1c9 refs/tags/quagga_cvs_final
+3539cc8f48120ec77eb3c07692cebf0505636c4a refs/tags/quagga_linux-2.6.20_md5sig.diff
+cf45185f6071e589d7f93e6bb5b5feb5dd68b5b6 refs/tags/quagga_post_listloop_cleanup
+add0eeff20183249e06a261536008da2c1b0a3f3 refs/tags/quagga_pre_listloop_cleanup
+8ef51c60d1033957d326fa5dc47804f4ddd6b922 refs/tags/rfc3021-ipv6-fix
+3936b0232c66af1d2a1fb97d983c184f2463db0e refs/tags/start
+4b1411b695b1571131ef1b55d7446b810adeb173 refs/tags/zebra_org_20030117
+a7a004995e8249a344965fb1bbf52d54bc1c6211 refs/tags/zebra_org_20030203
+b971e71f87ae5bc15554c04d5d5de208288a6396 refs/tags/zebra_org_20030207
+d7a522e27cfde9a01fac2e66cd694444e688dd4f refs/tags/zebra_org_20030301
+8082cf4f91547886e46e73b388a781ce10b25882 refs/tags/zebra_org_20030325
+27b2d5204949c4755cd4c13c90616b5926031d44 refs/tags/zebra_org_20030404
+a45fb9a4cfa9daf083649089dea7a18a28635c2a refs/tags/zebra_org_20030428
+2a77721a1fe3e256a11d0d8c6a152cb114ba6baf refs/tags/zrm.patch
+
+
+$ git tag -n1
+RE-0.99.17.1    version RE-0.99.17.1
+RE-0.99.17.2    version RE-0.99.17.2
+RE-0.99.17.3    version RE-0.99.17.3
+RE-0.99.17.4    version RE-0.99.17.4
+RE-0.99.17.5    Quagga RE 0.99.17.5
+RE-0.99.17.6    Quagga RE 0.99.17.6
+bgp_rserver_after
+bgp_rserver_before
+ex07            Release ex07
+ex08            Release ex08
+ex09            Release ex09
+ex10p           Release ex10p (pipework)
+ex11p           Release ex11p (pipework)
+ex12            Release ex12
+ex14            Release ex14
+ex15p           Release ex15p (pipework)
+ex16p           Release ex16p (pipework)
+ex17            Merge with main Quagga source as of 29-Jul-2011.
+ex18p           Merge branch 'euro_ix' of /git/quagga.euro-ix into pipework
+ex19b           v0.99.18ex19b
+ex19p           v0.99.18ex19p
+ex20b           Fix SEGV when closing legacy threaded VTY
+ex21b           v0.99.20ex21b
+ex22b           v0.99.20ex22b -- v0.99.20.1
+ex23b           v0.99.20ex23b -- Quagga 'master' on 23-Mar-2012
+ex24b           v0.99.20ex24b
+ex25b           v0.99.20ex25b
+gpg-tag-20051106 GPG Tag of Quagga master, 20051106
+gpg-tag-20060330 PGP Tag of my master HEAD as of 20060330
+gpg-tag-20060331 PGP Tag of Paul Jakmas master branch HEAD as of circa 20060331
+gpg-tag-20060331-quagga_0_98_stable PGP Tag of Paul Jakmas Quagga 0.98 branch HEAD as of circa 20060331
+gpg-tag-quagga_0_98_6_release PGP Tag of Quagga 0.98.6, as it exists in Paul Jakmas git repository
+import_isisd_sf_20031223
+isisd_sf_20031223
+libtool-after
+libtool-before
+merge_zprivs_head_1
+merge_zprivs_head_2
+merge_zprivs_head_3
+merge_zprivs_head_4
+nonblocking_zclient_after
+nonblocking_zclient_before
+nonblocking_zserv_after
+nonblocking_zserv_before
+ospf_api
+patch_revert_debug_nssa_patch
+patch_vtysh_add_ssh_fix
+patch_vtysh_pagesize
+patch_z12269_linkstate
+patch_z14599_multicast_inactive_if
+patch_z14631_ptp_rfc3021
+patch_z14800_ospfd_ptmp
+patch_z15554_vtysh_writeconf
+patch_z15646_ospfd_seqnum_time
+patch_z15715_ospf_md5
+patch_z15769_ripv1
+patch_z16525_kame
+patch_z16681_ospfd_nssa
+patch_z16823
+patch_z16824_nsm_kill_neighbour
+patch_z17217_show_thread_cpu
+patch_z17218_cli_walk_up
+patch_z17290_ifupstaticfix
+patch_z17290_portfix
+patch_z17335_ospfd_doc
+patch_z17352_ptp_network_match
+pim0.157        [pim] Fixed doc on CAVEAT C7
+pim0.158        [pim] ssmpingd commands
+pim0.162        [pim] Additional PIM drafts.
+post_bgp_workqueus
+pre-rfc2301
+pre_bgp_workqueus
+quagga-0.99.22  Quagga release 0.99.22.
+quagga-0.99.22-rc1 Quagga 0.99.22-rc1
+quagga-0.99.22.1 Quagga release 0.99.22.1
+quagga-0.99.22.3 Quagga release 0.99.22.3
+quagga-0.99.22.4 Quagga release 0.99.22.4
+quagga-0.99.23  Quagga release 0.99.23.
+quagga-0.99.23-rc1 Quagga 0.99.23-rc1
+quagga-0.99.23.1 Quagga release 0.99.23.1.
+quagga-0.99.24  Quagga release 0.99.24.
+quagga-0.99.24-rc1 Quagga 0.99.24-rc1
+quagga-0.99.24.1 Quagga release 0.99.24.1.
+quagga-0.99.5-realms.diff Appying patch from http://vcalinus.gemenii.ro/quagga-0.99.5-realms.diff
+quagga-0.99.6-realms.patch Merge commit 'quagga_0_99_6_release' into linux-realms
+quagga-1.0.20160309 release: 1.0.20160309
+quagga-1.0.20160315 Quagga Release 1.0.20160315
+quagga-1.0.20161017 Quagga release 1.0.20161017
+quagga-1.1.0    Quagga release 1.1.0
+quagga-1.1.1    Quagga release quagga-1.1.1
+quagga-1.2.0    Quagga release quagga-1.2.0
+quagga-1.2.1    Quagga release quagga-1.2.1
+quagga-1.2.2    Quagga 1.2.2 release tag
+quagga-1.2.3    Quagga release quagga-1.2.3
+quagga-1.2.4    Quagga release quagga-1.2.4
+quagga-as4-statsbugfix.patch Applying quagga-as4-statsbugfix.patch
+quagga-cvs20061024-to-asn32-v01.patch Applying quagga-cvs20061024-to-asn32-v01.patch
+quagga-cvs20061201-asn32-v01.patch Applying quagga-cvs20061201-asn32-v01.patch
+quagga-cvs20061208-asn32-v01.patch Applying quagga-cvs20061208-asn32-v01.patch
+quagga-cvs20070110-as4-v04.patch Applying quagga-cvs20070110-as4-v04.patch
+quagga-cvs20070110-asn32-v02.patch Applying quagga-cvs20070110-asn32-v02.patch
+quagga-cvs20070110-asn32-v03.patch Applying quagga-cvs20070110-asn32-v03.patch
+quagga-cvs20070307-as4-v05.patch Applying quagga-cvs20070307-as4-v05.patch
+quagga_0_96_1_release
+quagga_0_96_2_release
+quagga_0_96_3_release
+quagga_0_96_4_release
+quagga_0_96_5_release
+quagga_0_96_release
+quagga_0_97_0_release
+quagga_0_97_1_release
+quagga_0_97_2_release
+quagga_0_97_3_release
+quagga_0_97_4_release
+quagga_0_97_5_release
+quagga_0_98_0_release
+quagga_0_98_1_release
+quagga_0_98_2_release
+quagga_0_98_3_release
+quagga_0_98_4_release
+quagga_0_98_5_release
+quagga_0_98_6_release
+quagga_0_99_10_release [release] Bump version to 0.99.10
+quagga_0_99_11_release [release] Bump version to 0.99.11
+quagga_0_99_11_release.cp1 add my modified debian build dir
+quagga_0_99_12_release [release] Bump version to 0.99.12
+quagga_0_99_13_release [doc] remove -dither arg to imagemagick, in building PDFs
+quagga_0_99_14_release [build] Bump release to 0.99.14
+quagga_0_99_15_release release: 0.99.15
+quagga_0_99_16_release release: 0.99.16
+quagga_0_99_17_release release: 0.99.17
+quagga_0_99_18_release release: 0.99.18
+quagga_0_99_19_release Quagga release 0.99.19.
+quagga_0_99_1_release
+quagga_0_99_20_1_release Quagga release 0.99.20.1.
+quagga_0_99_20_release Quagga release 0.99.20.
+quagga_0_99_21_release gga release 0.99.21.
+quagga_0_99_2_release Tag Quagga 0.99.2
+quagga_0_99_3_release
+quagga_0_99_4_release Tag Quagga 0.99.4 CVS Release
+quagga_0_99_5_release
+quagga_0_99_6_release
+quagga_0_99_7_release
+quagga_0_99_8_release
+quagga_0_99_9_release
+quagga_cvs_final Quagga CVS HEAD: final commit to CVS, prior to SCM move
+quagga_linux-2.6.20_md5sig.diff Applying patch from http://www.solinno.co.uk/md5sig/quagga_linux-2.6.20_md5sig.diff
+quagga_post_listloop_cleanup
+quagga_pre_listloop_cleanup
+rfc3021-ipv6-fix
+start
+zebra_org_20030117
+zebra_org_20030203
+zebra_org_20030207
+zebra_org_20030301
+zebra_org_20030325
+zebra_org_20030404
+zebra_org_20030428
+zrm.patch       route-map, prefix list, and source setting support for zebra
+
+

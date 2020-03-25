@@ -1,0 +1,357 @@
+
+
+Rewrite f38865dfaf81db600ed87eebf590929bbe29a140 (4617/4618) (2870 seconds passed, remaining 0 predicted)
+WARNING: Ref 'refs/heads/br-quagga-1.2.4' is unchanged
+WARNING: Ref 'refs/heads/master' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.1' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.2' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.3' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.4' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.5' is unchanged
+WARNING: Ref 'refs/tags/RE-0.99.17.6' is unchanged
+WARNING: Ref 'refs/tags/bgp_rserver_after' is unchanged
+WARNING: Ref 'refs/tags/bgp_rserver_before' is unchanged
+WARNING: Ref 'refs/tags/ex07' is unchanged
+WARNING: Ref 'refs/tags/ex08' is unchanged
+WARNING: Ref 'refs/tags/ex09' is unchanged
+WARNING: Ref 'refs/tags/ex10p' is unchanged
+WARNING: Ref 'refs/tags/ex11p' is unchanged
+WARNING: Ref 'refs/tags/ex12' is unchanged
+WARNING: Ref 'refs/tags/ex14' is unchanged
+WARNING: Ref 'refs/tags/ex15p' is unchanged
+WARNING: Ref 'refs/tags/ex16p' is unchanged
+WARNING: Ref 'refs/tags/ex17' is unchanged
+WARNING: Ref 'refs/tags/ex18p' is unchanged
+WARNING: Ref 'refs/tags/ex19b' is unchanged
+WARNING: Ref 'refs/tags/ex19p' is unchanged
+WARNING: Ref 'refs/tags/ex20b' is unchanged
+WARNING: Ref 'refs/tags/ex21b' is unchanged
+WARNING: Ref 'refs/tags/ex22b' is unchanged
+WARNING: Ref 'refs/tags/ex23b' is unchanged
+WARNING: Ref 'refs/tags/ex24b' is unchanged
+WARNING: Ref 'refs/tags/ex25b' is unchanged
+WARNING: Ref 'refs/tags/gpg-tag-20051106' is unchanged
+WARNING: Ref 'refs/tags/gpg-tag-20060330' is unchanged
+WARNING: Ref 'refs/tags/gpg-tag-20060331' is unchanged
+WARNING: Ref 'refs/tags/gpg-tag-20060331-quagga_0_98_stable' is unchanged
+WARNING: Ref 'refs/tags/gpg-tag-quagga_0_98_6_release' is unchanged
+WARNING: Ref 'refs/tags/import_isisd_sf_20031223' is unchanged
+WARNING: Ref 'refs/tags/isisd_sf_20031223' is unchanged
+WARNING: Ref 'refs/tags/libtool-after' is unchanged
+WARNING: Ref 'refs/tags/libtool-before' is unchanged
+WARNING: Ref 'refs/tags/merge_zprivs_head_1' is unchanged
+WARNING: Ref 'refs/tags/merge_zprivs_head_2' is unchanged
+WARNING: Ref 'refs/tags/merge_zprivs_head_3' is unchanged
+WARNING: Ref 'refs/tags/merge_zprivs_head_4' is unchanged
+WARNING: Ref 'refs/tags/nonblocking_zclient_after' is unchanged
+WARNING: Ref 'refs/tags/nonblocking_zclient_before' is unchanged
+WARNING: Ref 'refs/tags/nonblocking_zserv_after' is unchanged
+WARNING: Ref 'refs/tags/nonblocking_zserv_before' is unchanged
+WARNING: Ref 'refs/tags/ospf_api' is unchanged
+WARNING: Ref 'refs/tags/patch_revert_debug_nssa_patch' is unchanged
+WARNING: Ref 'refs/tags/patch_vtysh_add_ssh_fix' is unchanged
+WARNING: Ref 'refs/tags/patch_vtysh_pagesize' is unchanged
+WARNING: Ref 'refs/tags/patch_z12269_linkstate' is unchanged
+WARNING: Ref 'refs/tags/patch_z14599_multicast_inactive_if' is unchanged
+WARNING: Ref 'refs/tags/patch_z14631_ptp_rfc3021' is unchanged
+WARNING: Ref 'refs/tags/patch_z14800_ospfd_ptmp' is unchanged
+WARNING: Ref 'refs/tags/patch_z15554_vtysh_writeconf' is unchanged
+WARNING: Ref 'refs/tags/patch_z15646_ospfd_seqnum_time' is unchanged
+WARNING: Ref 'refs/tags/patch_z15715_ospf_md5' is unchanged
+WARNING: Ref 'refs/tags/patch_z15769_ripv1' is unchanged
+WARNING: Ref 'refs/tags/patch_z16525_kame' is unchanged
+WARNING: Ref 'refs/tags/patch_z16681_ospfd_nssa' is unchanged
+WARNING: Ref 'refs/tags/patch_z16823' is unchanged
+WARNING: Ref 'refs/tags/patch_z16824_nsm_kill_neighbour' is unchanged
+WARNING: Ref 'refs/tags/patch_z17217_show_thread_cpu' is unchanged
+WARNING: Ref 'refs/tags/patch_z17218_cli_walk_up' is unchanged
+WARNING: Ref 'refs/tags/patch_z17290_ifupstaticfix' is unchanged
+WARNING: Ref 'refs/tags/patch_z17290_portfix' is unchanged
+WARNING: Ref 'refs/tags/patch_z17335_ospfd_doc' is unchanged
+WARNING: Ref 'refs/tags/patch_z17352_ptp_network_match' is unchanged
+WARNING: Ref 'refs/tags/pim0.157' is unchanged
+WARNING: Ref 'refs/tags/pim0.158' is unchanged
+WARNING: Ref 'refs/tags/pim0.162' is unchanged
+WARNING: Ref 'refs/tags/post_bgp_workqueus' is unchanged
+WARNING: Ref 'refs/tags/pre-rfc2301' is unchanged
+WARNING: Ref 'refs/tags/pre_bgp_workqueus' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.22' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.22-rc1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.22.1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.22.3' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.22.4' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.23' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.23-rc1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.23.1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.24' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.24-rc1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.24.1' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.5-realms.diff' is unchanged
+WARNING: Ref 'refs/tags/quagga-0.99.6-realms.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.0.20160309' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.0.20160315' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.0.20161017' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.1.0' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.1.1' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.2.0' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.2.1' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.2.2' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.2.3' is unchanged
+WARNING: Ref 'refs/tags/quagga-1.2.4' is unchanged
+WARNING: Ref 'refs/tags/quagga-as4-statsbugfix.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20061024-to-asn32-v01.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20061201-asn32-v01.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20061208-asn32-v01.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20070110-as4-v04.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20070110-asn32-v02.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20070110-asn32-v03.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga-cvs20070307-as4-v05.patch' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_1_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_2_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_3_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_4_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_5_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_96_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_0_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_1_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_2_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_3_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_4_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_97_5_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_0_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_1_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_2_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_3_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_4_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_5_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_98_6_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_10_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_11_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_11_release.cp1' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_12_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_13_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_14_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_15_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_16_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_17_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_18_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_19_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_1_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_20_1_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_20_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_21_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_2_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_3_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_4_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_5_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_6_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_7_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_8_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_0_99_9_release' is unchanged
+WARNING: Ref 'refs/tags/quagga_cvs_final' is unchanged
+WARNING: Ref 'refs/tags/quagga_linux-2.6.20_md5sig.diff' is unchanged
+WARNING: Ref 'refs/tags/quagga_post_listloop_cleanup' is unchanged
+WARNING: Ref 'refs/tags/quagga_pre_listloop_cleanup' is unchanged
+WARNING: Ref 'refs/tags/rfc3021-ipv6-fix' is unchanged
+WARNING: Ref 'refs/tags/start' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030117' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030203' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030207' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030301' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030325' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030404' is unchanged
+WARNING: Ref 'refs/tags/zebra_org_20030428' is unchanged
+WARNING: Ref 'refs/tags/zrm.patch' is unchanged
+RE-0.99.17.1 -> RE-0.99.17.1 (878715cc78de825894d83458b7c8bd68e3f347cc -> 878715cc78de825894d83458b7c8bd68e3f347cc)
+RE-0.99.17.2 -> RE-0.99.17.2 (c66caa83f96cd11c95c05b40da9ed8064e236005 -> c66caa83f96cd11c95c05b40da9ed8064e236005)
+RE-0.99.17.3 -> RE-0.99.17.3 (2f7d5fb38a284a00f990f943fbd3fbd8961ef52e -> 2f7d5fb38a284a00f990f943fbd3fbd8961ef52e)
+RE-0.99.17.4 -> RE-0.99.17.4 (2bb2664e2957c587d8ad2d3d1d26de981983406e -> 2bb2664e2957c587d8ad2d3d1d26de981983406e)
+RE-0.99.17.5 -> RE-0.99.17.5 (792b6fa2c40f820df07caa80fbc6ed9c4191ef9b -> 792b6fa2c40f820df07caa80fbc6ed9c4191ef9b)
+gpg signature stripped from tag object f3861447b5e5f66c1d1835f722a16eec8165efa9
+RE-0.99.17.6 -> RE-0.99.17.6 (708a758fb8013d4b40ae09f81e4c5830279bf10c -> 708a758fb8013d4b40ae09f81e4c5830279bf10c)
+gpg signature stripped from tag object 4cffb13fdec5bdcb556f06392775f7deea79938d
+bgp_rserver_after -> bgp_rserver_after (fee0f4c629412f422fc9a857e097ef335c2c576c -> fee0f4c629412f422fc9a857e097ef335c2c576c)
+bgp_rserver_before -> bgp_rserver_before (0e82d0e1204e45ecce773a7e19f7d64140f7a66a -> 0e82d0e1204e45ecce773a7e19f7d64140f7a66a)
+ex07 -> ex07 (0cadbd1f2cb40f8fb46c0fcc1e1732dc4c519850 -> 0cadbd1f2cb40f8fb46c0fcc1e1732dc4c519850)
+ex08 -> ex08 (5460f007cabe88083ba08a1982a108c8ee8a4f12 -> 5460f007cabe88083ba08a1982a108c8ee8a4f12)
+ex09 -> ex09 (5cffb8de373bbd19c9db36239cf41951e266953e -> 5cffb8de373bbd19c9db36239cf41951e266953e)
+ex10p -> ex10p (64be6d766a65dc0749d17f5023d714678e9c96a6 -> 64be6d766a65dc0749d17f5023d714678e9c96a6)
+ex11p -> ex11p (9470cb2c32eab220f796b1438b787528272cbe84 -> 9470cb2c32eab220f796b1438b787528272cbe84)
+ex12 -> ex12 (6481583be322b0ba223a0140500a0a6d50546dd9 -> 6481583be322b0ba223a0140500a0a6d50546dd9)
+ex14 -> ex14 (e20f7ccd9e110fcd5deb945f8d23922efd8b0822 -> e20f7ccd9e110fcd5deb945f8d23922efd8b0822)
+ex15p -> ex15p (f9956b9524ddafdb9d0cec042213eaa8229aad8c -> f9956b9524ddafdb9d0cec042213eaa8229aad8c)
+ex16p -> ex16p (7e666be965b3ac61b05ccdeca2b61902bc26e172 -> 7e666be965b3ac61b05ccdeca2b61902bc26e172)
+ex17 -> ex17 (7bd8653ef788a6395b07583d6766be8950598342 -> 7bd8653ef788a6395b07583d6766be8950598342)
+ex18p -> ex18p (cec1fae79110dffa900c0c5f38c3d3b48f5b0db6 -> cec1fae79110dffa900c0c5f38c3d3b48f5b0db6)
+ex19b -> ex19b (73a45fd38a9bc7279eb67021b07092a00768b559 -> 73a45fd38a9bc7279eb67021b07092a00768b559)
+ex19p -> ex19p (44b5aa5ca8b8a1620478c794dae11a7d71e9211e -> 44b5aa5ca8b8a1620478c794dae11a7d71e9211e)
+ex20b -> ex20b (6bd3ef2441f6b45d96c69ee8183d2bec8173ddb5 -> 6bd3ef2441f6b45d96c69ee8183d2bec8173ddb5)
+ex21b -> ex21b (81188036c33d098e43734da3603a37350f3272b7 -> 81188036c33d098e43734da3603a37350f3272b7)
+ex22b -> ex22b (97f375b3e02e0f4ec18f68fbe36fc5ae16693d26 -> 97f375b3e02e0f4ec18f68fbe36fc5ae16693d26)
+ex23b -> ex23b (4526b03b4c1ac32588cd8f9a3ea71bafe72db9ef -> 4526b03b4c1ac32588cd8f9a3ea71bafe72db9ef)
+ex24b -> ex24b (3f3eefca8629ba50b1621877f9ac56b5a77626ce -> 3f3eefca8629ba50b1621877f9ac56b5a77626ce)
+ex25b -> ex25b (58b4a3411f12d3ef34ef52ab197729887074f321 -> 58b4a3411f12d3ef34ef52ab197729887074f321)
+gpg-tag-20051106 -> gpg-tag-20051106 (98f26b41d87762ece74061cbc078091e21a0b7f6 -> 98f26b41d87762ece74061cbc078091e21a0b7f6)
+gpg signature stripped from tag object bccb8564f7d56d641a7fa76d957865b023c20e3c
+gpg-tag-20060330 -> gpg-tag-20060330 (c5f7407b028e1d183cee49e75a7f6c9cd42a3d46 -> c5f7407b028e1d183cee49e75a7f6c9cd42a3d46)
+gpg signature stripped from tag object 0be0d829620760b6f36e803ab2d2fe25d3a4dbaf
+gpg-tag-20060331 -> gpg-tag-20060331 (d768c9c44cef6ab3c00c69d63a7ac90468223577 -> d768c9c44cef6ab3c00c69d63a7ac90468223577)
+gpg signature stripped from tag object 778f39362bc8868abbe6040553ee243db803dc18
+gpg-tag-20060331-quagga_0_98_stable -> gpg-tag-20060331-quagga_0_98_stable (747c65545223569e18e47ed706889e37bfd49a2c -> 747c65545223569e18e47ed706889e37bfd49a2c)
+gpg signature stripped from tag object 0e8069c9236b2c87e990c7697e96cd3a60b0f641
+gpg-tag-quagga_0_98_6_release -> gpg-tag-quagga_0_98_6_release (71c8c1732b97e11e353cccef2c06f77d792109ed -> 71c8c1732b97e11e353cccef2c06f77d792109ed)
+gpg signature stripped from tag object b644bb898613b5874e9633c9d6a5d6eeb3c9cd3c
+import_isisd_sf_20031223 -> import_isisd_sf_20031223 (3dbf99698a3be2e920871c3127ea089e061a127c -> 3dbf99698a3be2e920871c3127ea089e061a127c)
+isisd_sf_20031223 -> isisd_sf_20031223 (ec86d2a4f0727687483d6c574906ddfad8802eff -> ec86d2a4f0727687483d6c574906ddfad8802eff)
+libtool-after -> libtool-after (87efd646ffef693235d9d29b005a1467373c51bd -> 87efd646ffef693235d9d29b005a1467373c51bd)
+libtool-before -> libtool-before (f2bfdee5f9db5363fcd13763eca3fda729067d57 -> f2bfdee5f9db5363fcd13763eca3fda729067d57)
+merge_zprivs_head_1 -> merge_zprivs_head_1 (269c67c5ea350bbf5562edceff00cee0b2ef3b68 -> 269c67c5ea350bbf5562edceff00cee0b2ef3b68)
+merge_zprivs_head_2 -> merge_zprivs_head_2 (f651fd4f2584ba4fbbf0ccb299272adf21f64540 -> f651fd4f2584ba4fbbf0ccb299272adf21f64540)
+merge_zprivs_head_3 -> merge_zprivs_head_3 (704a6801abb2506e019f2bfa740c30293630c47f -> 704a6801abb2506e019f2bfa740c30293630c47f)
+merge_zprivs_head_4 -> merge_zprivs_head_4 (cfc959b8f5f7ea1185fb3de2e4064704d62336f0 -> cfc959b8f5f7ea1185fb3de2e4064704d62336f0)
+nonblocking_zclient_after -> nonblocking_zclient_after (634f9ea20fce82c94407cb677b5487b65bde1973 -> 634f9ea20fce82c94407cb677b5487b65bde1973)
+nonblocking_zclient_before -> nonblocking_zclient_before (dfb9a545f8e3500e6a99518193872f526c1f56ba -> dfb9a545f8e3500e6a99518193872f526c1f56ba)
+nonblocking_zserv_after -> nonblocking_zserv_after (719e97414a7ca1a4d49d72816b9e1bd2155d157d -> 719e97414a7ca1a4d49d72816b9e1bd2155d157d)
+nonblocking_zserv_before -> nonblocking_zserv_before (27da3988c30c333cd75cffc5565682366bb99513 -> 27da3988c30c333cd75cffc5565682366bb99513)
+ospf_api -> ospf_api (283ae334e83d0801b7de0067fc8a34b8a43f7fd5 -> 283ae334e83d0801b7de0067fc8a34b8a43f7fd5)
+patch_revert_debug_nssa_patch -> patch_revert_debug_nssa_patch (7d95c611f615aad92ac2e5cce787bad737f4e6bd -> 7d95c611f615aad92ac2e5cce787bad737f4e6bd)
+patch_vtysh_add_ssh_fix -> patch_vtysh_add_ssh_fix (5087df5683a810ee919d5e957cd210223b5f31e7 -> 5087df5683a810ee919d5e957cd210223b5f31e7)
+patch_vtysh_pagesize -> patch_vtysh_pagesize (e3d29b5f9e68447a09dec7215f9ad75d3cc17a0a -> e3d29b5f9e68447a09dec7215f9ad75d3cc17a0a)
+patch_z12269_linkstate -> patch_z12269_linkstate (2e3b2e474ed5ba04744b167132a84f9954485af4 -> 2e3b2e474ed5ba04744b167132a84f9954485af4)
+patch_z14599_multicast_inactive_if -> patch_z14599_multicast_inactive_if (48b33aaf706367aa9d647e2893f974a7f5740a6b -> 48b33aaf706367aa9d647e2893f974a7f5740a6b)
+patch_z14631_ptp_rfc3021 -> patch_z14631_ptp_rfc3021 (00df0c1e80811f3cf5eca0b28e720bf1bcc84a53 -> 00df0c1e80811f3cf5eca0b28e720bf1bcc84a53)
+patch_z14800_ospfd_ptmp -> patch_z14800_ospfd_ptmp (7afa08da2d3690baee1739da400775f8543f5863 -> 7afa08da2d3690baee1739da400775f8543f5863)
+patch_z15554_vtysh_writeconf -> patch_z15554_vtysh_writeconf (4fc01e67edf1763c9812438effe1d4b1c8b9897b -> 4fc01e67edf1763c9812438effe1d4b1c8b9897b)
+patch_z15646_ospfd_seqnum_time -> patch_z15646_ospfd_seqnum_time (9483e15540359cbd90b3f6481f1a7390a92167a7 -> 9483e15540359cbd90b3f6481f1a7390a92167a7)
+patch_z15715_ospf_md5 -> patch_z15715_ospf_md5 (30961a15cf3837b62c65d4c0ecf3ee05f4b6bf55 -> 30961a15cf3837b62c65d4c0ecf3ee05f4b6bf55)
+patch_z15769_ripv1 -> patch_z15769_ripv1 (727d104b15d6293d7223e7830f2e37ae98022cac -> 727d104b15d6293d7223e7830f2e37ae98022cac)
+patch_z16525_kame -> patch_z16525_kame (ab836aab45bb6bea37da3584bb051fc56f1ca827 -> ab836aab45bb6bea37da3584bb051fc56f1ca827)
+patch_z16681_ospfd_nssa -> patch_z16681_ospfd_nssa (f2c806522030d4964b4ca649637a7901751d8496 -> f2c806522030d4964b4ca649637a7901751d8496)
+patch_z16823 -> patch_z16823 (09e4efdcb22ac13af3f6e3a38158871ed140e5e0 -> 09e4efdcb22ac13af3f6e3a38158871ed140e5e0)
+patch_z16824_nsm_kill_neighbour -> patch_z16824_nsm_kill_neighbour (2d59836a4fb16e2471560a47da7e5f75779c5807 -> 2d59836a4fb16e2471560a47da7e5f75779c5807)
+patch_z17217_show_thread_cpu -> patch_z17217_show_thread_cpu (e04ab74d17b4f3456bd3eeefe2043584431b4ea2 -> e04ab74d17b4f3456bd3eeefe2043584431b4ea2)
+patch_z17218_cli_walk_up -> patch_z17218_cli_walk_up (9ab6812d1dd27813f3ae01624312edc21c1a0bb6 -> 9ab6812d1dd27813f3ae01624312edc21c1a0bb6)
+patch_z17290_ifupstaticfix -> patch_z17290_ifupstaticfix (d753e9eec96f03aa02a7648e4279c524c376908d -> d753e9eec96f03aa02a7648e4279c524c376908d)
+patch_z17290_portfix -> patch_z17290_portfix (4fc4e7ab47fef3295d0ae40e064fc99478c24e23 -> 4fc4e7ab47fef3295d0ae40e064fc99478c24e23)
+patch_z17335_ospfd_doc -> patch_z17335_ospfd_doc (d4f5031c5c2ca3953d071cfce0a3faa34f9b073d -> d4f5031c5c2ca3953d071cfce0a3faa34f9b073d)
+patch_z17352_ptp_network_match -> patch_z17352_ptp_network_match (570f7598ebf2e2107ac9976d4d9def22072c5b02 -> 570f7598ebf2e2107ac9976d4d9def22072c5b02)
+pim0.157 -> pim0.157 (a27d07a3d4b605cb814500493ea4ae1c439d7aab -> a27d07a3d4b605cb814500493ea4ae1c439d7aab)
+pim0.158 -> pim0.158 (0722bb0da1e8abc3cccb76491348c15bbe730c6f -> 0722bb0da1e8abc3cccb76491348c15bbe730c6f)
+pim0.162 -> pim0.162 (ce8e7ce454bb64aebb335300c45389f59db2ed07 -> ce8e7ce454bb64aebb335300c45389f59db2ed07)
+post_bgp_workqueus -> post_bgp_workqueus (200df115ea0ba6f54151d60fe5e9a7f6948de7c3 -> 200df115ea0ba6f54151d60fe5e9a7f6948de7c3)
+pre-rfc2301 -> pre-rfc2301 (8bd9c714365883e405af7c7c4257e404a1053469 -> 8bd9c714365883e405af7c7c4257e404a1053469)
+pre_bgp_workqueus -> pre_bgp_workqueus (b31b813671d96ea9e96801508442a90f0ef503fa -> b31b813671d96ea9e96801508442a90f0ef503fa)
+quagga-0.99.22 -> quagga-0.99.22 (66b63aa036c75737c3a8cea9693eff4dec84f903 -> 66b63aa036c75737c3a8cea9693eff4dec84f903)
+gpg signature stripped from tag object 479599095b026b7ebca43dedd7696b76fbaf63d2
+quagga-0.99.22-rc1 -> quagga-0.99.22-rc1 (955be06f8a647d1149d5547e1265fb66f55a9161 -> 955be06f8a647d1149d5547e1265fb66f55a9161)
+gpg signature stripped from tag object e8c065286ecfb155ed0bfe5f3eb2b8a880f21028
+quagga-0.99.22.1 -> quagga-0.99.22.1 (747d6e783b60d67e6f83d3681fe523b2ecb01ed3 -> 747d6e783b60d67e6f83d3681fe523b2ecb01ed3)
+gpg signature stripped from tag object 7de4d1eb063f97b0b69e33bc09e88093db94db33
+quagga-0.99.22.3 -> quagga-0.99.22.3 (f1e604425fff959032cd4c47fe0493ac2ab2fb0f -> f1e604425fff959032cd4c47fe0493ac2ab2fb0f)
+gpg signature stripped from tag object 13feb1d1afcdf2ed07cb9cc5b1d824bd334d6e6a
+quagga-0.99.22.4 -> quagga-0.99.22.4 (15fe4b715c93db2cd1ad1f4a1cab7da91ba48eb0 -> 15fe4b715c93db2cd1ad1f4a1cab7da91ba48eb0)
+gpg signature stripped from tag object 86aa461403fdcd9a284f69c763e8b2c2b9d6c8a6
+quagga-0.99.23 -> quagga-0.99.23 (a4b5665f76d9e907a547c85c9c4a7a656c568b9d -> a4b5665f76d9e907a547c85c9c4a7a656c568b9d)
+gpg signature stripped from tag object 00c5aa35eb09241a27c2f57a8e632da3b5539ffb
+quagga-0.99.23-rc1 -> quagga-0.99.23-rc1 (fdb913aedb5a9807ad60715e8badb4f25d57acea -> fdb913aedb5a9807ad60715e8badb4f25d57acea)
+gpg signature stripped from tag object 6c0a521cb6b299c7b14ce5655a94350bf481f75e
+quagga-0.99.23.1 -> quagga-0.99.23.1 (8e7e87593e1b40368f99a6694b982eb8c7dcab1a -> 8e7e87593e1b40368f99a6694b982eb8c7dcab1a)
+gpg signature stripped from tag object 90ec57834bf7c12dd7cfaa2c76bcf30b527914a7
+quagga-0.99.24 -> quagga-0.99.24 (f191f1e6d64e9f2cefacc91023a2359d037fea79 -> f191f1e6d64e9f2cefacc91023a2359d037fea79)
+gpg signature stripped from tag object fd42dee9e3a2c239876bb933a96dd7a9de7bcfb0
+quagga-0.99.24-rc1 -> quagga-0.99.24-rc1 (369b973e42f2b4f00a02e3ca8a1c6f1b252cf4ae -> 369b973e42f2b4f00a02e3ca8a1c6f1b252cf4ae)
+gpg signature stripped from tag object 4e6ad854782381b3a11d847796f17dc688824d35
+quagga-0.99.24.1 -> quagga-0.99.24.1 (d35b51ee5fa3cc4866860f5718c4090de61f9922 -> d35b51ee5fa3cc4866860f5718c4090de61f9922)
+gpg signature stripped from tag object ebc3cf42f9a567eeab6d36282c9ccd927fa7075c
+quagga-0.99.5-realms.diff -> quagga-0.99.5-realms.diff (8d3e3ccfd0d0cb82b253f937339d1c6189a2bf54 -> 8d3e3ccfd0d0cb82b253f937339d1c6189a2bf54)
+quagga-0.99.6-realms.patch -> quagga-0.99.6-realms.patch (37e11172f8ed157340783b73d56595bb02d0a2d2 -> 37e11172f8ed157340783b73d56595bb02d0a2d2)
+quagga-1.0.20160309 -> quagga-1.0.20160309 (e3f623be8b6556db9d70c2fc5d3c2b152f36dc1d -> e3f623be8b6556db9d70c2fc5d3c2b152f36dc1d)
+gpg signature stripped from tag object 2653b19f46c0fdef621df51bc7153c3869fa3f33
+quagga-1.0.20160315 -> quagga-1.0.20160315 (86c5d2ee68f7b9c00ae4aeb5c8b3c5d82c5ebffc -> 86c5d2ee68f7b9c00ae4aeb5c8b3c5d82c5ebffc)
+gpg signature stripped from tag object b000d011c7d5df18d0de2453d0d8e41c1351056c
+quagga-1.0.20161017 -> quagga-1.0.20161017 (4571b5f4243c93d897873bf58b1f9a5c8d724f88 -> 4571b5f4243c93d897873bf58b1f9a5c8d724f88)
+gpg signature stripped from tag object 6591ec5b56f305651153f8eee8ad6c2b786231fa
+quagga-1.1.0 -> quagga-1.1.0 (258f3dad6471a680c2c583a300cfd396efe9a037 -> 258f3dad6471a680c2c583a300cfd396efe9a037)
+gpg signature stripped from tag object 406daa3bc6a8843efbe95b9dab45ef2ad9900615
+quagga-1.1.1 -> quagga-1.1.1 (3b0e3008e41c967e459f87b6ca8658ef26f49bc9 -> 3b0e3008e41c967e459f87b6ca8658ef26f49bc9)
+gpg signature stripped from tag object fa29c762b6d5c9f9325417dd1dd924431fc5d639
+quagga-1.2.0 -> quagga-1.2.0 (c876b0b27e398c7d733966ce8636c26dd7a8e6eb -> c876b0b27e398c7d733966ce8636c26dd7a8e6eb)
+gpg signature stripped from tag object 455e2ab23bad6b0c7058f884ae98b654bc106033
+quagga-1.2.1 -> quagga-1.2.1 (da94416dd48171d53a9fe3ac57763d7552987dca -> da94416dd48171d53a9fe3ac57763d7552987dca)
+gpg signature stripped from tag object 8870a506f35b1f3363d47b7798e14d87cd7871ca
+quagga-1.2.2 -> quagga-1.2.2 (4f721a713d6e973fed8872a62f1c8c56e04fb045 -> 4f721a713d6e973fed8872a62f1c8c56e04fb045)
+gpg signature stripped from tag object 76538858cf46f84523e8345efe1dc21fe1e21fbf
+quagga-1.2.3 -> quagga-1.2.3 (88d6516676cbcefb6ecdc1828cf59ba3a6e5fe7b -> 88d6516676cbcefb6ecdc1828cf59ba3a6e5fe7b)
+gpg signature stripped from tag object f500824447a9a95651f6edd0696187b399aec9b0
+quagga-1.2.4 -> quagga-1.2.4 (ddece197663c5ebc3b4428ad95eef5168ed8fcda -> ddece197663c5ebc3b4428ad95eef5168ed8fcda)
+gpg signature stripped from tag object 58d2fa2dd5afdcb16a6fb45cea644cd67f2f9f01
+quagga-as4-statsbugfix.patch -> quagga-as4-statsbugfix.patch (071e1c9b194138e404942d62dce53780b69d5e4a -> 071e1c9b194138e404942d62dce53780b69d5e4a)
+quagga-cvs20061024-to-asn32-v01.patch -> quagga-cvs20061024-to-asn32-v01.patch (e6f21cea152869a7cda19e5a698d45d680005003 -> e6f21cea152869a7cda19e5a698d45d680005003)
+quagga-cvs20061201-asn32-v01.patch -> quagga-cvs20061201-asn32-v01.patch (a81e04966f5a7ecfb546b084daf3c50353d9d71b -> a81e04966f5a7ecfb546b084daf3c50353d9d71b)
+quagga-cvs20061208-asn32-v01.patch -> quagga-cvs20061208-asn32-v01.patch (570b38f6fe8a47742efb054e5611809be88b10b3 -> 570b38f6fe8a47742efb054e5611809be88b10b3)
+quagga-cvs20070110-as4-v04.patch -> quagga-cvs20070110-as4-v04.patch (64199a31bd521be0781f115621d8ade82c5a844e -> 64199a31bd521be0781f115621d8ade82c5a844e)
+quagga-cvs20070110-asn32-v02.patch -> quagga-cvs20070110-asn32-v02.patch (c571a7ef7c72a6fce1a980bb40046bf97ac590c0 -> c571a7ef7c72a6fce1a980bb40046bf97ac590c0)
+quagga-cvs20070110-asn32-v03.patch -> quagga-cvs20070110-asn32-v03.patch (73bb5bcbf2485fd0e688b08caabaf3689c9e7a7c -> 73bb5bcbf2485fd0e688b08caabaf3689c9e7a7c)
+quagga-cvs20070307-as4-v05.patch -> quagga-cvs20070307-as4-v05.patch (fc4dc72017e8208111866382782640117d03fb5f -> fc4dc72017e8208111866382782640117d03fb5f)
+quagga_0_96_1_release -> quagga_0_96_1_release (162e2d9fc4fea60280cdd2fb8a5d73828dfdfce1 -> 162e2d9fc4fea60280cdd2fb8a5d73828dfdfce1)
+quagga_0_96_2_release -> quagga_0_96_2_release (d02d5a6b7bc25abc8cf16e4959f89e84116b7ea5 -> d02d5a6b7bc25abc8cf16e4959f89e84116b7ea5)
+quagga_0_96_3_release -> quagga_0_96_3_release (44ebf843d7b4e434bc490a9d8716af2b83924758 -> 44ebf843d7b4e434bc490a9d8716af2b83924758)
+quagga_0_96_4_release -> quagga_0_96_4_release (1fc8a39b7497b2ab2048b2299cc454a2f7666756 -> 1fc8a39b7497b2ab2048b2299cc454a2f7666756)
+quagga_0_96_5_release -> quagga_0_96_5_release (5f77949e7e7c0b6ea23cb2554743ed2b940c340c -> 5f77949e7e7c0b6ea23cb2554743ed2b940c340c)
+quagga_0_96_release -> quagga_0_96_release (2f4453f45603644d4928ee90635ce4b85b11e4a1 -> 2f4453f45603644d4928ee90635ce4b85b11e4a1)
+quagga_0_97_0_release -> quagga_0_97_0_release (5973ee73f0931d666a733afad8b198ca3b050592 -> 5973ee73f0931d666a733afad8b198ca3b050592)
+quagga_0_97_1_release -> quagga_0_97_1_release (4f8b5bb13888e5ae56070f8d9e3a9de14a228be2 -> 4f8b5bb13888e5ae56070f8d9e3a9de14a228be2)
+quagga_0_97_2_release -> quagga_0_97_2_release (6b637e9602316d98983fa103dfdbef4bbf723ffb -> 6b637e9602316d98983fa103dfdbef4bbf723ffb)
+quagga_0_97_3_release -> quagga_0_97_3_release (1b074dd28a04f4734e37d420c95c492affe24bc1 -> 1b074dd28a04f4734e37d420c95c492affe24bc1)
+quagga_0_97_4_release -> quagga_0_97_4_release (2b70200c5797ca60acf2011fe62f33fa161be54b -> 2b70200c5797ca60acf2011fe62f33fa161be54b)
+quagga_0_97_5_release -> quagga_0_97_5_release (1f3585ea3da831f592bc0290a1b969dc002c6ceb -> 1f3585ea3da831f592bc0290a1b969dc002c6ceb)
+quagga_0_98_0_release -> quagga_0_98_0_release (220d0c0ea3a3aab81836a6aad4137aa40270512d -> 220d0c0ea3a3aab81836a6aad4137aa40270512d)
+quagga_0_98_1_release -> quagga_0_98_1_release (a47890bca1ae40701a2e22cd048df4008ace7d66 -> a47890bca1ae40701a2e22cd048df4008ace7d66)
+quagga_0_98_2_release -> quagga_0_98_2_release (b9361a924e77a05d513b42e34a6f594d23d843ea -> b9361a924e77a05d513b42e34a6f594d23d843ea)
+quagga_0_98_3_release -> quagga_0_98_3_release (eeaedd26c7d74ed07b460cb20066b3e0b11a3c78 -> eeaedd26c7d74ed07b460cb20066b3e0b11a3c78)
+quagga_0_98_4_release -> quagga_0_98_4_release (b891847d70c2febe28a3beac513768f15979418b -> b891847d70c2febe28a3beac513768f15979418b)
+quagga_0_98_5_release -> quagga_0_98_5_release (02726ee4af0c387477bca2ca9466dd3e2d8cec71 -> 02726ee4af0c387477bca2ca9466dd3e2d8cec71)
+quagga_0_98_6_release -> quagga_0_98_6_release (71c8c1732b97e11e353cccef2c06f77d792109ed -> 71c8c1732b97e11e353cccef2c06f77d792109ed)
+quagga_0_99_10_release -> quagga_0_99_10_release (e1f3d39898833874e93af0dd1f40a029abd0be62 -> e1f3d39898833874e93af0dd1f40a029abd0be62)
+quagga_0_99_11_release -> quagga_0_99_11_release (5635b778afcb3b6b3560871a292dc789f8dca5e9 -> 5635b778afcb3b6b3560871a292dc789f8dca5e9)
+quagga_0_99_11_release.cp1 -> quagga_0_99_11_release.cp1 (936e986aea99f97ef8c8143ba8ff201fcc9c0b34 -> 936e986aea99f97ef8c8143ba8ff201fcc9c0b34)
+quagga_0_99_12_release -> quagga_0_99_12_release (5012bc3d217f4fff5759745ee689869fb5224b41 -> 5012bc3d217f4fff5759745ee689869fb5224b41)
+quagga_0_99_13_release -> quagga_0_99_13_release (5bc52c76c2816a3be9a033c3e5bf4fea1908e3cd -> 5bc52c76c2816a3be9a033c3e5bf4fea1908e3cd)
+quagga_0_99_14_release -> quagga_0_99_14_release (998274cd7c559bd04d7b7f6e615ad120af915d86 -> 998274cd7c559bd04d7b7f6e615ad120af915d86)
+quagga_0_99_15_release -> quagga_0_99_15_release (3849ce4e25281d11537ebd0db5e2fa2a7c356b33 -> 3849ce4e25281d11537ebd0db5e2fa2a7c356b33)
+quagga_0_99_16_release -> quagga_0_99_16_release (438589e31fe38943247f3011388b819346e473fe -> 438589e31fe38943247f3011388b819346e473fe)
+quagga_0_99_17_release -> quagga_0_99_17_release (a6be12128c29b0dc5b8a6d6923510fc7f677b775 -> a6be12128c29b0dc5b8a6d6923510fc7f677b775)
+quagga_0_99_18_release -> quagga_0_99_18_release (d8509631b47aba867c59eb463bb346d7ae5b91c7 -> d8509631b47aba867c59eb463bb346d7ae5b91c7)
+quagga_0_99_19_release -> quagga_0_99_19_release (0998342b5f79b2441d4beade4bb8ac304de86741 -> 0998342b5f79b2441d4beade4bb8ac304de86741)
+gpg signature stripped from tag object 96e8293164e9ecac77f237dc95698acb9c742104
+quagga_0_99_1_release -> quagga_0_99_1_release (0c2029e9121d4c80380c174c2503b7deaf4e03ce -> 0c2029e9121d4c80380c174c2503b7deaf4e03ce)
+quagga_0_99_20_1_release -> quagga_0_99_20_1_release (87f81eae2a74580e58cd9bed13a4c62306181d04 -> 87f81eae2a74580e58cd9bed13a4c62306181d04)
+gpg signature stripped from tag object ca89ed22a8138799cadd18b25c1f06c5edf00151
+quagga_0_99_20_release -> quagga_0_99_20_release (48f99b0c2bfed8d3880732d188e1d5964f575ee4 -> 48f99b0c2bfed8d3880732d188e1d5964f575ee4)
+gpg signature stripped from tag object a0d9d110ab8ef852c4d893d3d22f0079da6734da
+quagga_0_99_21_release -> quagga_0_99_21_release (828f235df4b6a322aac58e1b7d5089c7f9d6cc0a -> 828f235df4b6a322aac58e1b7d5089c7f9d6cc0a)
+gpg signature stripped from tag object d68837a80ccc06cbd2e5d7c4146966bb977bff5e
+quagga_0_99_2_release -> quagga_0_99_2_release (58e1befe5fbd6eade52a1536acb49ea4b4fc5837 -> 58e1befe5fbd6eade52a1536acb49ea4b4fc5837)
+quagga_0_99_3_release -> quagga_0_99_3_release (a8d9c1f9caae29410b74f138f81d9b07645c47ce -> a8d9c1f9caae29410b74f138f81d9b07645c47ce)
+quagga_0_99_4_release -> quagga_0_99_4_release (f371b1fb2bd0c615d44653d56a26df8f7245481d -> f371b1fb2bd0c615d44653d56a26df8f7245481d)
+quagga_0_99_5_release -> quagga_0_99_5_release (c15deb1b7428a2baedfb615b1a41fe28d48c598c -> c15deb1b7428a2baedfb615b1a41fe28d48c598c)
+quagga_0_99_6_release -> quagga_0_99_6_release (43cd33a44e010f818633b7f144b5a0be352b41e7 -> 43cd33a44e010f818633b7f144b5a0be352b41e7)
+quagga_0_99_7_release -> quagga_0_99_7_release (a857eb6be5b7f639e76fe3ef7711a3700abe20bc -> a857eb6be5b7f639e76fe3ef7711a3700abe20bc)
+quagga_0_99_8_release -> quagga_0_99_8_release (e6a01955a7d26dda6f0ecfb6a787d4c46442303b -> e6a01955a7d26dda6f0ecfb6a787d4c46442303b)
+quagga_0_99_9_release -> quagga_0_99_9_release (af400e26aec5828ac63fd1e2273172f3ac9da44e -> af400e26aec5828ac63fd1e2273172f3ac9da44e)
+quagga_cvs_final -> quagga_cvs_final (750e814693050bc97391eec618aad9db798ee5e8 -> 750e814693050bc97391eec618aad9db798ee5e8)
+gpg signature stripped from tag object a47cc41272aa9948906fc4383fafec76cc3211fc
+quagga_linux-2.6.20_md5sig.diff -> quagga_linux-2.6.20_md5sig.diff (3539cc8f48120ec77eb3c07692cebf0505636c4a -> 3539cc8f48120ec77eb3c07692cebf0505636c4a)
+quagga_post_listloop_cleanup -> quagga_post_listloop_cleanup (1eb8ef2584833f18fb674e127d59cb5a7f771482 -> 1eb8ef2584833f18fb674e127d59cb5a7f771482)
+quagga_pre_listloop_cleanup -> quagga_pre_listloop_cleanup (5920990fecba7e2430af3cfaa8bcbaed40d0ba1a -> 5920990fecba7e2430af3cfaa8bcbaed40d0ba1a)
+rfc3021-ipv6-fix -> rfc3021-ipv6-fix (8fdcfdecd5900d7ffeaff9686c65eb2b9e6beb50 -> 8fdcfdecd5900d7ffeaff9686c65eb2b9e6beb50)
+start -> start (0f0c3059be0fc711fb5b98d3d9c0d6dcd84c3992 -> 0f0c3059be0fc711fb5b98d3d9c0d6dcd84c3992)
+zebra_org_20030117 -> zebra_org_20030117 (f2298cf6e89f2f2958282f45a523fe47a6fac369 -> f2298cf6e89f2f2958282f45a523fe47a6fac369)
+zebra_org_20030203 -> zebra_org_20030203 (87e7bd70819e712e26f60c430627b7b04cdd7949 -> 87e7bd70819e712e26f60c430627b7b04cdd7949)
+zebra_org_20030207 -> zebra_org_20030207 (d71717f92ca1892f7b30b553c4ab588e0095c5c7 -> d71717f92ca1892f7b30b553c4ab588e0095c5c7)
+zebra_org_20030301 -> zebra_org_20030301 (8a3864b2f7268f4016b6cbb81c6e05b10e684140 -> 8a3864b2f7268f4016b6cbb81c6e05b10e684140)
+zebra_org_20030325 -> zebra_org_20030325 (ef43a3dc3618e2e7836a9bf76572a69d94c4b4fe -> ef43a3dc3618e2e7836a9bf76572a69d94c4b4fe)
+zebra_org_20030404 -> zebra_org_20030404 (81b3c9c636807877beaeed741ab8fef764959ab1 -> 81b3c9c636807877beaeed741ab8fef764959ab1)
+zebra_org_20030428 -> zebra_org_20030428 (d13e616559e7c1566d13741fb9808e9f863081b3 -> d13e616559e7c1566d13741fb9808e9f863081b3)
+zrm.patch -> zrm.patch (2a77721a1fe3e256a11d0d8c6a152cb114ba6baf -> 2a77721a1fe3e256a11d0d8c6a152cb114ba6baf)
+
